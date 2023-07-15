@@ -1,5 +1,5 @@
  
-<img src="./assets/Ban.gif"> 
+<img src="./assets/hey.gif"> 
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
