@@ -36,7 +36,7 @@ I'm a guy who love develop new things 🖥️ <br />
           🔭 I’m currently studying at **SRMAP**
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to collaborate on Open Source Projects
         </li>
         <li>
           🌱 I’m currently learning Backend Dev; 
