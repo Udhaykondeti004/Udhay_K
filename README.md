@@ -1,5 +1,5 @@
-
-<a href="https://github.com/Udhaykondeti004">![Udhaykondeti004 Profile GIF](./assets/Banner.gif)</a>
+ 
+<img src="./assets/ullu.gif"> 
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -50,8 +50,10 @@ I'm a guy who love develop new things 🖥️ <br />
         <li>
           📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/udhayk004/)
         </li>
-
-    </td>
+      </ul>
+      </tr>
+</td>
+</table>
     <td style="border: none;">
       <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
     </td>
@@ -99,14 +101,14 @@ I'm a guy who love develop new things 🖥️ <br />
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
+## 📘 My top projects
 
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Udhaykondeti004/Amazon-Clone"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhaykondeti004&repo=Amazon-Clone&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Udhaykondeti004/Expense-Tracking-System"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhaykondeti004&repo=Expense-Tracking-System&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Udhaykondeti004/Expense-Tracking-System"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhaykondeti004&repo=Expense-Tracking-System&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
-  <p align="center">&#8192;</p>
+  <p align="center"></p>
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Udhaykondeti004/sleeping-teaching-assistant"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Udhaykondeti004&repo=sleeping-teaching-assistant&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Udhaykondeti004/Hospital-Managment"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=Udhaykondeti004&repo=Hospital-Managment&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
@@ -122,18 +124,10 @@ I'm a guy who love develop new things 🖥️ <br />
 
 <!-- last activity section -->
 
-## Activity Graph
+<!--## Activity Graph
 <p align="center">
   <img src="./assets/Udhaykondeti004-2023.stl" width="100%"/>
 </p>
 
-<br>
+<br>-->
 
-<!-- last refresh of readme section -->
-
-Last refresh: <b>Friday, July 14, 8:00 PM GMT-5</b>
-
-<!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
